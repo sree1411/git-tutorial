@@ -1,3 +1,3 @@
-#git tutorail
+# Git tutorail
 
 some kind of information has been written
